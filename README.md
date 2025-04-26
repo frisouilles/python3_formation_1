@@ -1,7 +1,5 @@
 # Python 3 Formation 1
 
-![Elonet](https://elonet.fr/img/logo.png)
-
 # 1 - Fonctions
 Assez vite, il devient indispensable de rendre notre code plus lisible, pour cela on découpe notre programme en "blocs" logiques, on utilise donc les fonctions.
 
